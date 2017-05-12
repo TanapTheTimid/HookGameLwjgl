@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=keycode
+comment0.target=boolean\ isKeyDown(int)
+comment1.params=
+comment1.target=int\ getMouseX()
+comment2.params=
+comment2.target=int\ getMouseY()
+comment3.params=
+comment3.target=boolean\ isMouseDown()
+numComments=4

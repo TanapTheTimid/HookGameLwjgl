@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=title\ cursorFile\ width\ height\ winOffsetX\ winOffsetY\ borderWidth
+comment0.target=void\ init(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ enableGlFlags()
+comment2.params=cursorFile
+comment2.target=void\ setCursorImage(java.lang.String)
+comment3.params=
+comment3.target=long\ getWindowId()
+numComments=4

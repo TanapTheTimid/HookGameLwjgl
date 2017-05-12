@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=obj1\ obj2
+comment0.target=int\ checkCollision(GameObject,\ GameObject)
+comment1.params=obj1\ obj2
+comment1.target=boolean\ checkCollisionSimple(GameObject,\ GameObject)
+comment2.params=obj1\ velocityX1\ velocityY1\ obj2\ velocityX2\ velocityY2
+comment2.target=int\ checkCollisionExpensiveVelocityAware(GameObject,\ double,\ double,\ GameObject,\ double,\ double)
+comment3.params=obj1\ velocityX1\ velocityY1\ obj2\ velocityX2\ velocityY2
+comment3.target=int\ checkCollisionVelocityAware(GameObject,\ double,\ double,\ GameObject,\ double,\ double)
+comment4.params=obj1\ velocityX1\ velocityY1\ velocityX2\ velocityY2\ gameObjects
+comment4.target=java.util.ArrayList\ objectCollisionSurfaceAreaAwareHelper(GameObject,\ float,\ float,\ float,\ float,\ java.util.HashSet)
+comment5.params=obj1\ velocityX1\ velocityY1\ obj2\ velocityX2\ velocityY2
+comment5.target=int[]\ checkCollisionSurfaceAreaAware(GameObject,\ double,\ double,\ GameObject,\ double,\ double)
+comment6.params=point1\ size1\ point2\ size2
+comment6.target=double\ oneDimensionalOverlap(double,\ double,\ double,\ double)
+numComments=7
